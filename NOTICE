@@ -1,0 +1,35 @@
+OpenAHLTA
+Copyright 2012 Northrop Grumann
+
+
+Background
+
+Northrop Grumann, with Government funding, developed and delivered the software
+product generally referred to as the OpenAHLTA system software, and more
+specifically as DHIMS AHLTA-T B2Rl SPl which, under the Contract, was delivered
+to the United States Government, acting through TRICARE Management Activity,
+with Unlimited Rights in accordance with DFARS 252.227-7014(b)(1).
+
+
+
+Licensing Agreement
+
+With the goal of contributing to the development of a joint iEHR, the TRICARE
+Management Activity negociated an special agreement with Northrop Grumann by
+which it got a License to sub-license OpenAHLTA as Open Source software, under
+the terms of the Apache 2.0 License.
+
+This license applies only to the software components of OpenAHLTA for which
+Northrop Grumann holds the copyright. Other components that are copyrighted by
+third parties have been removed from this current software project.
+
+TRICARE is now Licensing the OpenAHLTA software to you under the terms of a
+Apache 2.0 License.
+
+The agreement between Northrop Grumann and TRICARE establishes that the
+licenses that TRICARE has granted to you on this software, will not be affected
+in the event that the agreement between Northrop Grumann and TRICARE is
+terminated.
+
+For details on the license terms please see the LICENSE file.
+
