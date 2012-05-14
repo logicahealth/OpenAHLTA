@@ -1,0 +1,44 @@
+VERSION 1.0 CLASS
+BEGIN
+  MultiUse = -1  'True
+  Persistable = 0  'NotPersistable
+  DataBindingBehavior = 0  'vbNone
+  DataSourceBehavior  = 0  'vbNone
+  MTSTransactionMode  = 0  'NotAnMTSObject
+END
+Attribute VB_Name = "GEMS_PrefSForm"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = True
+Attribute VB_PredeclaredId = False
+Attribute VB_Exposed = True
+Attribute VB_Ext_KEY = "SavedWithClassBuilder6" ,"Yes"
+Attribute VB_Ext_KEY = "Top_Level" ,"Yes"
+Option Explicit
+
+Private mvarRepresentation As String
+Private mvarNeeded As Long
+
+Public Property Get Representation() As String
+  Representation = mvarRepresentation
+End Property
+
+Public Property Let Representation(RHV As String)
+  mvarRepresentation = RHV
+End Property
+
+Public Property Get Needed() As Long
+  Needed = mvarNeeded
+End Property
+
+Public Property Let Needed(RHV As Long)
+  mvarNeeded = RHV
+End Property
+
+Public Function SaveCache()
+End Function
+
+Public Function Load()
+End Function
+
+Public Function ClassHandle()
+End Function
