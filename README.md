@@ -13,4 +13,4 @@ on the license agreement.
 
 Please see the LICENSE file for details on the licensing terms.
 
-Addintional information can be found at OSEHRA:  http://www.osehra.org
+Additional information can be found at OSEHRA:  http://www.osehra.org
